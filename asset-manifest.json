@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b243307.chunk.css",
-    "main.js": "/static/js/main.e2016843.chunk.js",
-    "main.js.map": "/static/js/main.e2016843.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c3d6f07c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c3d6f07c.js.map",
-    "static/js/2.8ead1c93.chunk.js": "/static/js/2.8ead1c93.chunk.js",
-    "static/js/2.8ead1c93.chunk.js.map": "/static/js/2.8ead1c93.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1b243307.chunk.css.map": "/static/css/main.1b243307.chunk.css.map",
-    "static/js/2.8ead1c93.chunk.js.LICENSE.txt": "/static/js/2.8ead1c93.chunk.js.LICENSE.txt"
+    "main.css": "/InteractiveCards/static/css/main.1b243307.chunk.css",
+    "main.js": "/InteractiveCards/static/js/main.e2016843.chunk.js",
+    "main.js.map": "/InteractiveCards/static/js/main.e2016843.chunk.js.map",
+    "runtime-main.js": "/InteractiveCards/static/js/runtime-main.498452f9.js",
+    "runtime-main.js.map": "/InteractiveCards/static/js/runtime-main.498452f9.js.map",
+    "static/js/2.8ead1c93.chunk.js": "/InteractiveCards/static/js/2.8ead1c93.chunk.js",
+    "static/js/2.8ead1c93.chunk.js.map": "/InteractiveCards/static/js/2.8ead1c93.chunk.js.map",
+    "index.html": "/InteractiveCards/index.html",
+    "static/css/main.1b243307.chunk.css.map": "/InteractiveCards/static/css/main.1b243307.chunk.css.map",
+    "static/js/2.8ead1c93.chunk.js.LICENSE.txt": "/InteractiveCards/static/js/2.8ead1c93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3d6f07c.js",
+    "static/js/runtime-main.498452f9.js",
     "static/js/2.8ead1c93.chunk.js",
     "static/css/main.1b243307.chunk.css",
     "static/js/main.e2016843.chunk.js"
